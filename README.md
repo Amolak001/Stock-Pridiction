@@ -20,3 +20,6 @@ This app provides an intuitive interface for forecasting stock prices for the ne
 
 5. requirements.txt :
    A list of dependencies required to run the application. This file allows users to easily set up the required environment by running pip install -r requirements.txt.
+
+## Deployed App
+🌐 Try the Deployed App: https://stock-pridiction.streamlit.app/
